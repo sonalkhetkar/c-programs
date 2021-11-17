@@ -12,13 +12,17 @@ void main()
     {
        printf("1 for sum");
     }
-    if(option=2)
+    else if(option=2)
     {
        printf("2 for sub");
     }
     if(option=3)
+    {
     printf("3 for mult");
+    }
+    if(option==4)
+    {
     printf("4 for div");
-    scanf("%d",&option);
-
+    }
+   
 }
