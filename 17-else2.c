@@ -6,7 +6,7 @@ printf("enter the number:");
 scanf("%d",&number);
 if (number>=10||number <1)
 {
- printf("numberis invalid");
+ printf("number is invalid");
  }
  else if(number ==2||number==3||number==5||number==7)
  {
